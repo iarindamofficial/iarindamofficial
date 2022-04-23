@@ -1,7 +1,7 @@
 ### Hey there 👋 
-<b>Engineer by Qualification,Designer by Choice!</b>
+### I'm Arindam Dutta, <b>Engineer by Qualification & Designer by Choice!</b>
 
-<br>Hello, I'm Arindam Dutta, a self-taught UX Designer passionate about designing User experiences that leave a positive impact on people, environment and the society. I am a native of Kolkata, India, and have a background in Computer Science, in which I hold a Bachelor of Engineering degree.
+<br>I'm a self-taught UX Designer passionate about designing User experiences that leave a positive impact on people, environment and the society. I am a native of Kolkata, India, and have a background in Computer Science, in which I hold a Bachelor of Engineering degree.
 I personally enjoy working on projects that require both strategy as well as visual design. I love working on problems from the ideation stage and seeing them through completion through great designs.
 
 
